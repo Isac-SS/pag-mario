@@ -14,8 +14,5 @@
 
 ## Projeto:
 
-<div>
-    <video class="video" autoplay loop muted>
-        <source src="src\video\gif-project-mario_0YkLRjrR.gif" alt="gif do projeto"  />
-    </video>
-</div>
+https://user-images.githubusercontent.com/108199274/213935417-3913868e-cc2f-41c8-8eb2-238c084937e1.mp4
+
