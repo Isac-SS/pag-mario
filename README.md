@@ -2,7 +2,7 @@
 
 >Esse projeto foi desenvolvido durante o evento SEMANA DO ZERO AO PROGRAMADOR CONTRATADO, 
 >realizado pelo Dev em Dobro. Durante o evento foram realizadas mentorias a cerca do mercado   
->de trabalhona programação e roadmaps para obter melhores resultados profissionalmente. 
+>de trabalho na programação e roadmaps para obter melhores resultados profissionalmente. 
 >
 >Foi desenvolvido um projeto prático, trabalhando a base do conhecimento Frontend, assim como
 >estrutura de projetos e boas práticas.
