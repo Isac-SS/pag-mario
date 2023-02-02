@@ -1,0 +1,121 @@
+@media (max-width: 1200px) {
+    .fundo-video {
+        display: none;
+    }
+
+    body {
+        background-image: url("../imagens/fundo-mario.jpg");
+
+    }
+
+    .container {
+        flex-wrap: wrap;
+        justify-content: center;
+        height: auto;
+        gap: 27px;
+    }
+
+    .container .mario {
+        max-width: 50%;
+    }
+
+    .container .informacoes {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .container .imagem-titulo {
+        width: 35%;
+    }
+
+    .container .descricao {
+        color: rgb(0, 0, 0);
+        text-align: center;
+        width: 65%;
+        font-size: 1.02rem;
+        font-weight: 600;
+        text-align: justify;
+
+    }
+
+    .container .botao-trailer {
+        font-size: 1rem;
+    }
+
+    .container .mario {
+        width: 25%;
+    }
+}
+
+@media (max-width: 920px) {
+    .container .mario {
+        display: none;
+    }
+
+    .container .imagem-titulo {
+        width: 48%;
+    }
+
+    .container .informacoes {
+        padding-top: 10%;
+    }
+
+    .container .descricao {
+        text-align: justify;
+
+    }
+
+    .modal #video {
+        width: 300px;
+        height: 169px;
+    }
+
+}
+
+@media (max-width: 560px) {
+    .cabecalho {
+        flex-direction: column;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .cabecalho nav li a {
+        font-size: 1.25rem;
+    }
+
+    .container .imagem-titulo {
+        width: 60%;
+    }
+
+    .container .informacoes {
+        padding-top: 3%;
+    }
+
+    .container .descricao {
+        font-size: 1rem;
+        text-align: justify;
+
+    }
+
+    .modal #video {
+        width: 300px;
+        height: 169px;
+    }
+
+}
+
+@media (max-width: 414px) {
+    .container .descricao {
+        width: auto;
+        text-align: justify;
+
+    }
+}
+
+@media (max-width: 376px) {
+    .modal #video {
+        width: 250px;
+        height: 140px;
+    }
+}
